@@ -17,7 +17,7 @@
 ```
 ┌──────────┐     ┌─────────────┐     ┌──────────────┐     ┌───────────┐     ┌─────────────┐
 │  🎤 Audio │ ──▸ │ ASR Module  │ ──▸ │   Error      │ ──▸ │ Text-to-  │ ──▸ │  Execute &  │
-│  Input    │     │ (Whisper)   │     │   Correction │     │ SQL (GPT) │     │  Visualize  │
+│  Input    │     │ (Whisper)   │     │   Correction │     │SQL (Groq) │     │  Visualize  │
 └──────────┘     └─────────────┘     └──────────────┘     └───────────┘     └─────────────┘
                                             ▲                    ▲
                                             │                    │
