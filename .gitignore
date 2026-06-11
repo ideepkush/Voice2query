@@ -72,3 +72,6 @@ dmypy.json
 # System
 .DS_Store
 Thumbs.db
+
+# Generated PDF report (local only)
+REPORT.pdf
